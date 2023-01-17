@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moment1.1", "moment1.1\moment1.1.csproj", "{880AF1B3-DE1A-45F5-AD75-57C15F34982E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{880AF1B3-DE1A-45F5-AD75-57C15F34982E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880AF1B3-DE1A-45F5-AD75-57C15F34982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880AF1B3-DE1A-45F5-AD75-57C15F34982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880AF1B3-DE1A-45F5-AD75-57C15F34982E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D94B4B-EC00-4BD4-A98C-449B45BFEC11}
+	EndGlobalSection
+EndGlobal
